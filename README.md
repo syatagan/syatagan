@@ -1,6 +1,6 @@
 <!-- Your title -->
 <h1 align="center">Hello 👋 I'm Suzan YATAĞAN</h1>
-<h3 align="center">A Developer In Datascience Field.</h3>
+<h3 align="center">A Developer In Datascience Field</h3>
 &nbsp;
 
 <!-- Talking about you -->
